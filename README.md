@@ -1,1 +1,0 @@
-# satarnmakcom-c-cpp-
